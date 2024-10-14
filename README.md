@@ -13,22 +13,22 @@
 ## 2.Default Rig Sets
 |No|Rig Set Name||
 |--|--|--|
-|1|Studio Standards||
-|2|Big 80s||
-|3|70s Rock||
-|4|60s Rooms||
-|5|Crystal Cleans||
-|6|Dirty Rhythms||
-|7|Modulated||
-|8|Squashed||
-|9|Stoner Rock||
-|10|Open Backs||
-|11|Closed Backs||
-|12|Warm and Lush||
-|13|Ambient Post||
-|14|UK Tones||
-|15|Studio DI Tricks||
-|16|Bright and Tweaky||
+|1|Studio Standards|<img src="images/01.png">|
+|2|Big 80s|<img src="images/02.png">|
+|3|70s Rock|<img src="images/03.png">|
+|4|60s Rooms|<img src="images/04.png">|
+|5|Crystal Cleans|<img src="images/05.png">|
+|6|Dirty Rhythms|<img src="images/06.png">|
+|7|Modulated|<img src="images/07.png">|
+|8|Squashed|<img src="images/08.png">|
+|9|Stoner Rock|<img src="images/09.png">|
+|10|Open Backs|<img src="images/10.png">|
+|11|Closed Backs|<img src="images/11.png">|
+|12|Warm and Lush|<img src="images/12.png">|
+|13|Ambient Post|<img src="images/13.png">|
+|14|UK Tones|<img src="images/14.png">|
+|15|Studio DI Tricks|<img src="images/15.png">|
+|16|Bright and Tweaky|<img src="images/16.png">|
 
 ## 3.Speaker Cabinets(22)
 
